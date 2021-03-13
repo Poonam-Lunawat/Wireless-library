@@ -1,0 +1,8 @@
++ react-native-paper@4.4.1
+added 3 packages and audited 948 packages in 8.192s
+
+45 packages are looking for funding
+  run `npm fund` for details
+
+found 10 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
